@@ -21,9 +21,22 @@ Este proyecto está licenciado bajo la licencia **Creative Commons Atribución-N
 
 Puedes ver el archivo [`LICENSE`](LICENSE) para más detalles.
 
-## 📥 Descarga
+## 📥 Descargar e instalar la app
 
- Puedes descargarla e instalarla directamente desde el apartado **Releases** de este repositorio.
+Puedes descargar la aplicación directamente desde este enlace:
+
+➡️ [Descargar UnimateEscolar APK](https://github.com/TU_USUARIO/TU_REPOSITORIO/releases/download/v1.0/UnimateEscolar-v1.0.apk)
+
+### 📲 Instrucciones para instalar el APK en Android
+
+1. Abre este enlace desde tu móvil.
+2. Es posible que Android te pida confirmar que deseas instalar apps de fuentes desconocidas:
+   - Si es así, ve a **Ajustes > Seguridad** y activa **“Permitir fuentes desconocidas”** para el navegador que estés usando.
+3. Una vez descargado el archivo `.apk`, ábrelo para iniciar la instalación.
+4. Acepta los permisos que solicita y pulsa **“Instalar”**.
+
+✅ ¡Listo! Ya puedes abrir la app y comenzar a usarla.
+
 
 ---
 
