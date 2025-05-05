@@ -1,6 +1,6 @@
-# UnimateEscolar
+# UniMatEscolar
 
-**UnimateEscolar** es una aplicación móvil que conecta a usuarios para **intercambiar, vender o comprar uniformes y material escolar usados**. Su objetivo es fomentar la reutilización de recursos escolares, reducir el desperdicio y apoyar la economía familiar.
+**UniMatEscolar** es una aplicación móvil que conecta a usuarios para **intercambiar, vender o comprar uniformes y material escolar usados**. Su objetivo es fomentar la reutilización de recursos escolares, reducir el desperdicio y apoyar la economía familiar.
 
 ## 📱 Características principales
 
@@ -25,7 +25,7 @@ Puedes ver el archivo [`LICENSE`](LICENSE) para más detalles.
 
 Puedes descargar la aplicación directamente desde este enlace:
 
-➡️ [Descargar UnimateEscolar APK](https://github.com/unimatescolar/UnimatEscolarApp/releases/download/UnimateEscolar-v1.0/UniMatEscolar-v1.0.apk)
+➡️ [Descargar UniMatEscolar APK](https://github.com/unimatescolar/UnimatEscolarApp/releases/download/UnimateEscolar-v1.0/UniMatEscolar-v1.0.apk)
 
 ### 📲 Instrucciones para instalar el APK en Android
 
