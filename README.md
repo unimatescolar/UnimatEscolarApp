@@ -13,7 +13,7 @@
 
 - No usamos cookies.
 - La autenticación se realiza mediante Firebase con  correo electrónico y contraseña.
-- Consulta nuestra [Política de Privacidad]([link](https://sites.google.com/view/unimatescolar/politica-de-privacidad)) para más detalles.
+- Consulta nuestra [Política de Privacidad](https://sites.google.com/view/unimatescolar/politica-de-privacidad) para más detalles.
 
 ## 🚫 Licencia
 
