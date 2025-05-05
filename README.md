@@ -25,7 +25,7 @@ Puedes ver el archivo [`LICENSE`](LICENSE) para más detalles.
 
 Puedes descargar la aplicación directamente desde este enlace:
 
-➡️ [Descargar UnimateEscolar APK](https://github.com/TU_USUARIO/TU_REPOSITORIO/releases/download/v1.0/UnimateEscolar-v1.0.apk)
+➡️ [Descargar UnimateEscolar APK]((https://github.com/unimatescolar/UnimatEscolarApp/releases/download/UnimateEscolar-v1.0/UniMatEscolar-v1.0.apk))
 
 ### 📲 Instrucciones para instalar el APK en Android
 
